@@ -71,7 +71,7 @@ logo = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo2 = """
@@ -87,7 +87,7 @@ logo2 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo3 = """
@@ -103,7 +103,7 @@ logo3 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo4 = """
@@ -119,7 +119,7 @@ logo4 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo5 = """
@@ -135,7 +135,7 @@ logo5 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo6 = """
@@ -151,7 +151,7 @@ logo6 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo7 = """
@@ -167,7 +167,7 @@ logo7 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo8 = """
@@ -183,7 +183,7 @@ logo8 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo11 = """
@@ -199,7 +199,7 @@ logo11 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo12 = """
@@ -215,7 +215,7 @@ logo12 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo13 = """
@@ -231,7 +231,7 @@ logo13 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo14 = """
@@ -247,7 +247,7 @@ logo14 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo15 = """
@@ -263,7 +263,7 @@ logo15 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo16 = """
@@ -279,7 +279,7 @@ logo16 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo17 = """
@@ -295,7 +295,7 @@ logo17 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo18 = """
@@ -311,7 +311,7 @@ logo18 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo19 = """
@@ -327,7 +327,7 @@ logo19 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo20 = """
@@ -343,7 +343,7 @@ logo20 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo21 = """
@@ -359,7 +359,7 @@ logo21 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo22 = """
@@ -375,7 +375,7 @@ logo22 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo23 = """
@@ -391,7 +391,7 @@ logo23 = """
 \033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
 \033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability
 
 """
 logo24 = """
@@ -535,10 +535,13 @@ def login():
 	print logo11
 	print "1.\x1b[1;95mLogin Your Facebook Account with Two Factor Authentication"
         time.sleep(0.05)
+	
         print "2.\x1b[1;95mWhat is Facebook Two Factor Authentication Vulnerability Checker?"
         time.sleep(0.05)
+	
         print "3.\x1b[1;95mLogin using link token"
         time.sleep(0.05)
+	
 	print "0.\033[1;95mExit           "
 	pilih_login()
 	
