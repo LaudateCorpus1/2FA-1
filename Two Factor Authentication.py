@@ -211,6 +211,7 @@ logo11 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
+
 \033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
@@ -224,6 +225,7 @@ logo12 = """
 ╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+
 
 \033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
@@ -239,6 +241,7 @@ logo13 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
+
 \033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
@@ -252,6 +255,7 @@ logo14 = """
 ╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+
 
 \033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
@@ -267,6 +271,7 @@ logo15 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
+
 \033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
@@ -280,6 +285,7 @@ logo16 = """
 ╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+
 
 \033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
@@ -295,6 +301,7 @@ logo17 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
+
 \033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
@@ -308,6 +315,7 @@ logo18 = """
 ╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+
 
 \033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
@@ -323,11 +331,97 @@ logo19 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
+
 \033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+
+
+"""
+logo20 = """
+
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
+
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
+
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+
+
+"""
+logo21 = """
+
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
+
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
+
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+
+
+"""
+logo22 = """
+
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
+
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
+
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+
+
+"""
+logo23 = """
+
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
+
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
+
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+
+
+"""
+logo24 = """
+
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
+
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
+
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+
+"""
+logo25 = """
+
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
+
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
+
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+
+"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
