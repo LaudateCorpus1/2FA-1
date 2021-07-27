@@ -67,15 +67,11 @@ logo = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
-\033[1;92m--> FACEBOOK :- MALANG MALANG
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;93m--> YOUTUBE :-  XDLEVEL
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only Made for FUKING USING 
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
 
 """
 logo2 = """
