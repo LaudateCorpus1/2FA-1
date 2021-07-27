@@ -105,406 +105,103 @@ logo3 = """
 """
 logo4 = """
 
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
-\033[1;92m--> FACEBOOK :- MALANG MALANG
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
-\033[1;93m--> YOUTUBE :-  XD LEVEL
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
 
 """
 logo5 = """
 
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
-\033[1;92m--> FACEBOOK :- Malang MALANG
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
-\033[1;93m--> YOUTUBE :-  XD LEVEL
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
 
 """
 logo6 = """
 
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-\033[1;91m--> GITHUB :- https://github.com/Mr Asad jan
 
-\033[1;92m--> FACEBOOK :- MALANG MALANG
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
-\033[1;93m--> YOUTUBE :-  XD LEVEL
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
 
 """
 logo7 = """
 
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
-\033[1;92m--> FACEBOOK :- MALANG MALANG
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
-\033[1;93m--> YOUTUBE :-  XD LEVEL
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
 
 """
 logo8 = """
 
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-\033[1;91m--> GITHUB :- https://github.com/Mr Asadjan
 
-\033[1;92m--> FACEBOOK :- MALANG MALANG
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
-\033[1;93m--> YOUTUBE :-  XE LEVEL
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
 
 """
-logo11 = """
+logo9 = """
 
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-\033[1;91m--> GITHUB :- https://github.com/Mr Asad Jan
 
-\033[1;92m--> FACEBOOK :- MALANG MALANG
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
-\033[1;93m--> YOUTUBE :-  XD LEVEL
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
-====================================
-====================================
-
-"""
-logo12 = """
-
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝
-
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
-
-\033[1;92m--> FACEBOOK :- MALANG MALANG
-
-\033[1;93m--> YOUTUBE :-  XD LEVEL
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
-"""
-logo13 = """
-
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
-
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
-
-\033[1;92m--> FACEBOOK :- MALANG MALANG
-
-\033[1;93m--> YOUTUBE :-  SARKAR22
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
-"""
-logo14 = """
-
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
-
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
-
-\033[1;92m--> FACEBOOK :- MALANG MALANG
-
-\033[1;93m--> YOUTUBE :-  SARKAR22
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
-"""
-logo15 = """
-
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
-
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
-
-\033[1;92m--> FACEBOOK :- MALANG MALANG
-
-\033[1;93m--> YOUTUBE :-  SARKAR22
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
-"""
-logo16 = """
-
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
-
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
-
-\033[1;92m--> FACEBOOK :- MALANG MALANG
-
-\033[1;93m--> YOUTUBE :-  SARKAR22
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
-"""
-logo17 = """
-
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
-
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
-
-\033[1;92m--> FACEBOOK :- MALANG MALANG
-
-\033[1;93m--> YOUTUBE :-  SARKAR22
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
-"""
-logo18 = """
-
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░╰╯
-
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
-
-\033[1;92m--> FACEBOOK :- MALANG MALANG
-
-\033[1;93m--> YOUTUBE :-  SARKAR22
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
-"""
-logo19 = """
-
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
-
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
-
-\033[1;92m--> FACEBOOK :- MALANG MALANG
-
-\033[1;93m--> YOUTUBE :-  SARKAR22
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
-"""
-logo20 = """
-
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
-
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
-
-\033[1;92m--> FACEBOOK :- MALANG MALANG
-
-\033[1;93m--> YOUTUBE :-  SARKAR22
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
-"""
-logo21 = """	
-
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
-
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
-
-\033[1;92m--> FACEBOOK :- MALANG MALANG
-
-\033[1;93m--> YOUTUBE :-  SARKAR22
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
-"""
-logo22 = """
-
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
-
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
-
-\033[1;92m--> FACEBOOK :- MALANG MALANG
-
-\033[1;93m--> YOUTUBE :-  SARKAR22
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
-"""
-logo23 = """
-
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
-
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
-
-\033[1;92m--> FACEBOOK :- MALANG MALANG
-
-\033[1;93m--> YOUTUBE :-  SARKAR22
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
-"""
-logo24 = """
-
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
-
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
-
-\033[1;92m--> FACEBOOK :- MALANG MALANG
-
-\033[1;93m--> YOUTUBE :- SARKAR22
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
 
 
 """
-logo25 = """
+logo10 = """
 
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
-\033[1;92m--> FACEBOOK :- MALANG MALANG
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
-\033[1;93m--> YOUTUBE :-  SARKAR22
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
 
 """
 
