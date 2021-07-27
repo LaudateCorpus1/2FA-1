@@ -64,13 +64,11 @@ logo = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo2 = """
@@ -79,13 +77,11 @@ logo2 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo3 = """
@@ -94,13 +90,11 @@ logo3 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo4 = """
@@ -109,13 +103,11 @@ logo4 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo5 = """
@@ -124,13 +116,11 @@ logo5 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo6 = """
@@ -139,13 +129,11 @@ logo6 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo7 = """
@@ -154,13 +142,11 @@ logo7 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo8 = """
@@ -169,13 +155,11 @@ logo8 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo11 = """
@@ -184,13 +168,11 @@ logo11 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo12 = """
@@ -199,13 +181,11 @@ logo12 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo13 = """
@@ -214,13 +194,11 @@ logo13 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo14 = """
@@ -229,13 +207,11 @@ logo14 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo15 = """
@@ -244,13 +220,11 @@ logo15 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo16 = """
@@ -259,13 +233,11 @@ logo16 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo17 = """
@@ -274,13 +246,11 @@ logo17 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo18 = """
@@ -289,13 +259,11 @@ logo18 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo19 = """
@@ -304,13 +272,11 @@ logo19 = """
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-
 \033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo20 = """
@@ -325,7 +291,6 @@ logo20 = """
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
 
-
 """
 logo21 = """
 
@@ -338,7 +303,6 @@ logo21 = """
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo22 = """
@@ -353,7 +317,6 @@ logo22 = """
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
 
-
 """
 logo23 = """
 
@@ -366,7 +329,6 @@ logo23 = """
 \033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
 
 """
 logo24 = """
@@ -690,7 +652,7 @@ def pilih_crack():
 			print"\x1b[1;91mID Not Found!"
 			raw_input("\n\033[1;97m[\033[1;97mBack\033[1;97m]")
 			crack()
-		print"\033[1;97mGetting IDs\033[1;97m..."
+		print"\033[1;97mStart Checking\033[1;97m..."
 		n = requests.get("https://graph.facebook.com/"+jjt+"/friends?access_token="+toket)
 		d = json.loads(n.text)
 		for c in d['data']:
@@ -705,11 +667,11 @@ def pilih_crack():
 	jalan('\033[1;97mPlease Wait\033[1;97m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;94mCloning\033[1;94m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;94mChecking\033[1;94m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\033[1;96mTo Stop Process Press CTRL then Z"
 	print "\033[1;91m-------------------------------------------------------------------"
-	jalan(' \033[1;95mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m      Started Cloning Wait A while ☕ ')
+	jalan(' \033[1;95mResult of Checking Accounts Vulnerability Will Appear Here')
+        jalan(' \033[1;95m      Started Checking Wait A while ☕ ')
 	print "\033[1;91m----------------------------------------"
 	
 			
@@ -828,9 +790,9 @@ def pilih_crack():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤"
-	print "  Written By MALANG" #Dev:MALANG
+	print "  Written By ALEXANDER GRAYSON" #Dev:MALANG
 	print '\033[1;94mProcess Has Been Completed \033[1;94m....'
-        print '\033[1;92mType (python2 Dvl.py) New Fb Start Cloning\033[1;92m....'
+        print '\033[1;92mType (python2 Dvl.py) New Fb Start Checking\033[1;92m....'
 	print"\033[1;96mTotal Live/\x1b[1;96mCheckpoint \033[1;96m: \033[1;96m"+str(len(oks))+"\033[1;96m/\033[1;96m"+str(len(cekpoint))
 	print """
 
