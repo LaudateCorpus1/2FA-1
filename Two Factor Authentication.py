@@ -60,119 +60,137 @@ R='\033[1;94m'
 ##### LOGO #####
 logo = """
 
-╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
-╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
-╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+██████╗ ███████╗ █████╗      ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███████╗██████╗ 
+╚════██╗██╔════╝██╔══██╗    ██╔════╝██║  ██║██╔════╝██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+ █████╔╝█████╗  ███████║    ██║     ███████║█████╗  ██║     █████╔╝ █████╗  ██████╔╝
+██╔═══╝ ██╔══╝  ██╔══██║    ██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+███████╗██║     ██║  ██║    ╚██████╗██║  ██║███████╗╚██████╗██║  ██╗███████╗██║  ██║
+╚══════╝╚═╝     ╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
-\033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
+\033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
+\033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
-
-\033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
 
 """
 logo2 = """
 
-╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
-╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
-╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+██████╗ ███████╗ █████╗      ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███████╗██████╗ 
+╚════██╗██╔════╝██╔══██╗    ██╔════╝██║  ██║██╔════╝██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+ █████╔╝█████╗  ███████║    ██║     ███████║█████╗  ██║     █████╔╝ █████╗  ██████╔╝
+██╔═══╝ ██╔══╝  ██╔══██║    ██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+███████╗██║     ██║  ██║    ╚██████╗██║  ██║███████╗╚██████╗██║  ██╗███████╗██║  ██║
+╚══════╝╚═╝     ╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
-\033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
+\033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
+\033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
-
-\033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
 
 """
 logo3 = """
 
-╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
-╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
-╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+██████╗ ███████╗ █████╗      ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███████╗██████╗ 
+╚════██╗██╔════╝██╔══██╗    ██╔════╝██║  ██║██╔════╝██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+ █████╔╝█████╗  ███████║    ██║     ███████║█████╗  ██║     █████╔╝ █████╗  ██████╔╝
+██╔═══╝ ██╔══╝  ██╔══██║    ██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+███████╗██║     ██║  ██║    ╚██████╗██║  ██║███████╗╚██████╗██║  ██╗███████╗██║  ██║
+╚══════╝╚═╝     ╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
-\033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
+\033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
+\033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
-
-\033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
 
 """
 logo4 = """
 
-╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
-╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
-╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+██████╗ ███████╗ █████╗      ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███████╗██████╗ 
+╚════██╗██╔════╝██╔══██╗    ██╔════╝██║  ██║██╔════╝██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+ █████╔╝█████╗  ███████║    ██║     ███████║█████╗  ██║     █████╔╝ █████╗  ██████╔╝
+██╔═══╝ ██╔══╝  ██╔══██║    ██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+███████╗██║     ██║  ██║    ╚██████╗██║  ██║███████╗╚██████╗██║  ██╗███████╗██║  ██║
+╚══════╝╚═╝     ╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
-\033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
+\033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
+\033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
-
-\033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
 
 """
 logo5 = """
 
-╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
-╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
-╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+██████╗ ███████╗ █████╗      ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███████╗██████╗ 
+╚════██╗██╔════╝██╔══██╗    ██╔════╝██║  ██║██╔════╝██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+ █████╔╝█████╗  ███████║    ██║     ███████║█████╗  ██║     █████╔╝ █████╗  ██████╔╝
+██╔═══╝ ██╔══╝  ██╔══██║    ██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+███████╗██║     ██║  ██║    ╚██████╗██║  ██║███████╗╚██████╗██║  ██╗███████╗██║  ██║
+╚══════╝╚═╝     ╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
-\033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
+\033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
+\033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
-
-\033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
 
 """
 logo6 = """
 
-╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
-╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
-╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+██████╗ ███████╗ █████╗      ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███████╗██████╗ 
+╚════██╗██╔════╝██╔══██╗    ██╔════╝██║  ██║██╔════╝██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+ █████╔╝█████╗  ███████║    ██║     ███████║█████╗  ██║     █████╔╝ █████╗  ██████╔╝
+██╔═══╝ ██╔══╝  ██╔══██║    ██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+███████╗██║     ██║  ██║    ╚██████╗██║  ██║███████╗╚██████╗██║  ██╗███████╗██║  ██║
+╚══════╝╚═╝     ╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
-\033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
+\033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
+\033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
-
-\033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
 
 """
 logo7 = """
 
-╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
-╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
-╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+██████╗ ███████╗ █████╗      ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███████╗██████╗ 
+╚════██╗██╔════╝██╔══██╗    ██╔════╝██║  ██║██╔════╝██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+ █████╔╝█████╗  ███████║    ██║     ███████║█████╗  ██║     █████╔╝ █████╗  ██████╔╝
+██╔═══╝ ██╔══╝  ██╔══██║    ██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+███████╗██║     ██║  ██║    ╚██████╗██║  ██║███████╗╚██████╗██║  ██╗███████╗██║  ██║
+╚══════╝╚═╝     ╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
-\033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
+\033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
+\033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
-
-\033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
 
 """
 logo8 = """
 
-╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
-╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
-╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+██████╗ ███████╗ █████╗      ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███████╗██████╗ 
+╚════██╗██╔════╝██╔══██╗    ██╔════╝██║  ██║██╔════╝██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+ █████╔╝█████╗  ███████║    ██║     ███████║█████╗  ██║     █████╔╝ █████╗  ██████╔╝
+██╔═══╝ ██╔══╝  ██╔══██║    ██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+███████╗██║     ██║  ██║    ╚██████╗██║  ██║███████╗╚██████╗██║  ██╗███████╗██║  ██║
+╚══════╝╚═╝     ╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
-\033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
+\033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
+\033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
-
-\033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
 
 """
 logo11 = """
 
-╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
-╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
-╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+██████╗ ███████╗ █████╗      ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███████╗██████╗ 
+╚════██╗██╔════╝██╔══██╗    ██╔════╝██║  ██║██╔════╝██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+ █████╔╝█████╗  ███████║    ██║     ███████║█████╗  ██║     █████╔╝ █████╗  ██████╔╝
+██╔═══╝ ██╔══╝  ██╔══██║    ██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+███████╗██║     ██║  ██║    ╚██████╗██║  ██║███████╗╚██████╗██║  ██╗███████╗██║  ██║
+╚══════╝╚═╝     ╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
-\033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
+\033[1;93m--> GITHUB : https://github.com/AlexanderGrayson-RPW
+\033[1;96m--> FACEBOOK : ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
-
-\033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+\033[1;91m--> DISCLAIMER : This tool is made for checking facebook two factor authentication vulnerability.
 
 """
 logo12 = """
@@ -429,11 +447,10 @@ print  """
 %%%%%%%%%%%%%%%##%@@@%%%@@@%#*****%@@@@@@@@@@@@@@@@%%%##########%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \033[1;92m
-______________________       ______________  ________________________ __________________ 
-__|__ \__  ____/__    |      __  ____/__  / / /__  ____/_  ____/__  //_/__  ____/__  __ \
-____/ /_  /_   __  /| |      _  /    __  /_/ /__  __/  _  /    __  ,<  __  __/  __  /_/ /
-_  __/_  __/   _  ___ |      / /___  _  __  / _  /___  / /___  _  /| | _  /___  _  _, _/ 
-/____//_/      /_/  |_|      \____/  /_/ /_/  /_____/  \____/  /_/ |_| /_____/  /_/ |_|  
+
+╔═╗╦  ╔═╗═╗ ╦╔═╗╔╗╔╔╦╗╔═╗╦═╗  ╔═╗╦═╗╔═╗╦ ╦╔═╗╔═╗╔╗╔  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝╠═╣║║║ ║║║╣ ╠╦╝  ║ ╦╠╦╝╠═╣╚╦╝╚═╗║ ║║║║  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═╩ ╩╝╚╝═╩╝╚═╝╩╚═  ╚═╝╩╚═╩ ╩ ╩ ╚═╝╚═╝╝╚╝  ╩╚═╩  ╚╩╝
                                                                                     
 """
 
