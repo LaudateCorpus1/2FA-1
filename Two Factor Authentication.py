@@ -60,7 +60,6 @@ R='\033[1;94m'
 ##### LOGO #####
 logo = """
 
-
 ╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
 ╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
 ╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
@@ -71,6 +70,7 @@ logo = """
 \033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+
 
 """
 logo2 = """
@@ -116,6 +116,7 @@ logo4 = """
 
 \033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
 
+
 """
 logo5 = """
 
@@ -130,6 +131,7 @@ logo5 = """
 
 \033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
 
+
 """
 logo6 = """
 
@@ -143,6 +145,7 @@ logo6 = """
 \033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
 \033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+
 
 """
 logo7 = """
