@@ -178,36 +178,6 @@ logo8 = """
 
 
 """
-logo9 = """
-
-╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
-╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
-╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
-
-
-\033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
-
-\033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
-
-\033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
-
-"""
-logo10 = """
-
-╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
-╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
-╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
-
-
-\033[1;93m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
-
-\033[1;96m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
-
-\033[1;91m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
-
-
-"""
 logo11 = """
 
 ╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
