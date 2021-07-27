@@ -533,7 +533,7 @@ def lisensi():
 def login():
 	os.system('clear')
 	print logo11
-	print "1.\x1b[1;95mLogin Your Facebook Account with Two Factor Authentication "
+	print "1.\x1b[1;95mLogin Your Facebook Account with Two Factor Authentication"
         time.sleep(0.05)
         print "2.\x1b[1;95mWhat is Facebook Two Factor Authentication Vulnerability Checker?"
         time.sleep(0.05)
