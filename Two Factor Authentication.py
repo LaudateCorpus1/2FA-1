@@ -60,12 +60,11 @@ R='\033[1;94m'
 ##### LOGO #####
 logo = """
 
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
+
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
+
 
 \033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
@@ -76,41 +75,32 @@ logo = """
 """
 logo2 = """
 
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
-\033[1;92m--> FACEBOOK :- MALANG MALANG
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
-\033[1;93m--> YOUTUBE :-  XD LEVEL
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
 
 """
 logo3 = """
 
-░█████╗░░██████╗░█████╗░██████╗░
-██╔══██╗██╔════╝██╔══██╗██╔══██╗
-███████║╚█████╗░███████║██║░░██║
-██╔══██║░╚═══██╗██╔══██║██║░░██║
-██║░░██║██████╔╝██║░░██║██████╔╝
-╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
-\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
+╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
+╠═╣║  ║╣ ╔╩╦╝  ╠╦╝╠═╝║║║
+╩ ╩╩═╝╚═╝╩ ╚═  ╩╚═╩  ╚╩╝
 
-\033[1;92m--> FACEBOOK :- MALANG MALANG
 
-\033[1;93m--> YOUTUBE :-  XD LEVEL
+\033[1;91m--> GITHUB :- https://github.com/AlexanderGrayson-RPW
 
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
+\033[1;92m--> FACEBOOK :- ALEXANDER GRAYSON & THANA ANDREOU GRAYSON
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
+
 
 """
 logo4 = """
@@ -573,8 +563,8 @@ print  """
 
 """
 
-CorrectUsername = "Brain"
-CorrectPassword = "Center"
+CorrectUsername = "AlexGray"
+CorrectPassword = "RPW/"
 
 loop = 'true'
 while (loop == 'true'):
@@ -587,10 +577,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCHetqAquUkojxVvPebQpb0g')
+            os.system('xdg-open https://www.facebook.com/profile.php?id=100022849337180')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCHetqAquUkojxVvPebQpb0g')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100022849337180')
 
 ##### LICENSE #####
 #=================#
@@ -601,11 +591,11 @@ def lisensi():
 def login():
 	os.system('clear')
 	print logo11
-	print "1.\x1b[1;95mLogin  Facebook  "
+	print "1.\x1b[1;95mLogin Your  Facebook Account with Two Factor Authentication "
         time.sleep(0.05)
-        print "2.\x1b[1;95mWhat is acces Token How To Get Acces Token Free"
+        print "2.\x1b[1;95mWhat is Facebook Two Factor Authentication Vulnerability Checker"
         time.sleep(0.05)
-        print "3.\x1b[1;95mLogin Using Token"
+        print "3.\x1b[1;95mLogin using link token"
         time.sleep(0.05)
 	print "0.\033[1;95mExit           "
 	pilih_login()
@@ -618,7 +608,7 @@ def pilih_login():
 	elif peak =="1":
 		login1()
         elif peak =="2":
-	        os.system('xdg-open https://youtu.be/gO3sM5ZvTw4')
+	        os.system('xdg-open https://www.facebook.com/profile.php?id=100022849337180')
 	        login()
 	elif peak =="3":
 	        tokenz()
@@ -637,9 +627,9 @@ def login1():
 		os.system('clear')
                 time.sleep(0.05)
 		print logo13
-		jalan('  \033[1;91mNote Do Not Use Your Personal Account' )
-		jalan(' \033[1;92mCreate New Account For Login Safely' )
-		print "\033[1;93mNew Commands Use It For Cloning"
+		jalan('  \033[1;91mNote Do Not Use Facebook Account without Two Factor Authentication' )
+		jalan(' \033[1;92mFacebook Login May Caused Security Sheck, Take Your Own Risk' )
+		print "\033[1;93mGive Some Credits to Alexander Grayson"
 		print('	' )
 		id = raw_input('\x1b[1;94mFacebook Email/Pass : \x1b[1;94m')
 		pwd = raw_input('\x1b[1;94mPassword  \x1b[1;94m')
@@ -725,9 +715,9 @@ def menu():
         time.sleep(0.05)
         print "033[1;97m==========================\033[1;97m"
         time.sleep(0.05)
-	print "1 .\x1b[1;94m\033[1;94mStart Cloning   "
+	print "1 .\x1b[1;94m\033[1;94mStart Vulnerability Check   "
         time.sleep(0.05)
-        print "2 .\x1b[1;94m\033[1;94mStart Target Hacking        "
+        print "2 .\x1b[1;94m\033[1;94mAll About Two Factor Checker        "
         time.sleep(0.05)
 	print "0 .\033[1;94m\033[1;94mLogout                         "
 	pilih()
@@ -765,7 +755,7 @@ def crack():
 		login()
 	os.system('clear')
 	print logo19
-	print "1 .\x1b[1;93mStart Cloning    "
+	print "1 .\x1b[1;93mStart Vulnerability Check    "
         time.sleep(0.05)
 	print "0. \033[1;93mBack"
 	pilih_crack()
