@@ -326,8 +326,8 @@ logo18 = """
 
 \033[1;94m--> DISCLAIMER :- This tool is made for checking facebook two factor authentication vulnerability.
 
-"""
 
+"""
 logo19 = """
 
 ╔═╗╦  ╔═╗═╗ ╦  ╦═╗╔═╗╦ ╦
