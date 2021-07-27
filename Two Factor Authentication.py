@@ -465,7 +465,7 @@ def lisensi():
 def login():
 	os.system('clear')
 	print logo11
-	print "1.\x1b[1;95mLogin Your  Facebook Account with Two Factor Authentication "
+	print "1.\x1b[1;95mLogin Your Facebook Account with Two Factor Authentication "
         time.sleep(0.05)
         print "2.\x1b[1;95mWhat is Facebook Two Factor Authentication Vulnerability Checker?"
         time.sleep(0.05)
@@ -501,12 +501,13 @@ def login1():
 		os.system('clear')
                 time.sleep(0.05)
 		print logo13
-		jalan('  \033[1;91mNote Do Not Use Facebook Account without Two Factor Authentication' )
+		jalan(' \033[1;91mNote Do Not Use Facebook Account without Two Factor Authentication' )
 		jalan(' \033[1;92mFacebook Login May Caused Security Sheck, Take Your Own Risk' )
+		
 		print "\033[1;93mGive Some Credits to Alexander Grayson"
 		print('	' )
-		id = raw_input('\x1b[1;94mFacebook Email/Pass : \x1b[1;94m')
-		pwd = raw_input('\x1b[1;94mPassword  \x1b[1;94m')
+		id = raw_input('\x1b[1;94mFacebook Email/Number : \x1b[1;94m')
+		pwd = raw_input('\x1b[1;94mFacebook Password : \x1b[1;94m')
 		tik()
 		try:
 			br.open('https://m.facebook.com')
